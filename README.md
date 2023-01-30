@@ -725,4 +725,4 @@ styles.css
 ![Output](./valid.png)
 
 ## Result:
-The program for designing company website for sale of products using HTML and CSS is completed successfully.
+The program for designing company website for sale of products using HTML and CSS is completed successfully
